@@ -14,12 +14,12 @@
 [basemaps](https://leaflet-extras.github.io/leaflet-providers/preview/)
 
 
-##### Esri
+### Esri
 
 [basemaps](https://developers.arcgis.com/javascript/3/jsapi/esri.basemaps-amd.html)
 
 
-##### Carto
+### Carto
 
 [web raster](https://github.com/CartoDB/basemap-styles)
 <br>
@@ -34,7 +34,7 @@
 [dark matter](https://carto.com/blog/positron-dark-matter-new-look/)
 
 
-##### Mapbox
+### Mapbox
 
 [streets](https://www.mapbox.com/maps/streets/)
 <br>
@@ -45,7 +45,7 @@
 [satellite](https://www.mapbox.com/maps/satellite/)
 
 
-##### Stamen
+### Stamen
 
 [preview](http://maps.stamen.com/test/leaflet.html)
 <br>
@@ -58,7 +58,7 @@
 [trees-cabs-crime](http://maps.stamen.com/trees-cabs-crime/#12/37.7706/-122.3782)
 <br>
 [mars](http://maps.stamen.com/mars/#12/37.7706/-122.3782) 
-*WebGL required
+- WebGL required
 <br>
 [burningmap](http://maps.stamen.com/burningmap/#12/37.7706/-122.3782) 
-*WebGL required
+- WebGL required
