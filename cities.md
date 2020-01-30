@@ -6,7 +6,7 @@
 - Denver
 - Long Beach
 - Los Angeles
-- Miama
+- Miami
 - Minneapolis
 - Oakland
 - Philadelphia
